@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Fluffy",
+    "type": "Dragon",
+    "age": 500,
+    "powerLevel": 10
+  },
+  {
+    "name": "Squiggles",
+    "type": "Unicorn",
+    "age": 100,
+    "powerLevel": 8
+  },
+  {
+    "name": "Thunderclap",
+    "type": "Griffin",
+    "age": 200,
+    "powerLevel": 6
+  },
+  {
+    "name": "Shimmer",
+    "type": "Fairy",
+    "age": 50,
+    "powerLevel": 7
+  },
+  {
+    "name": "Boulder",
+    "type": "Ogre",
+    "age": 1000,
+    "powerLevel": 5
+  },
+  {
+    "name": "Inferno",
+    "type": "Phoenix",
+    "age": 500,
+    "powerLevel": 9
+  },
+  {
+    "name": "Flash",
+    "type": "Pegasus",
+    "age": 300,
+    "powerLevel": 6
+  },
+  {
+    "name": "Twilight",
+    "type": "Vampire",
+    "age": 700,
+    "powerLevel": 7
+  },
+  {
+    "name": "Echo",
+    "type": "Siren",
+    "age": 200,
+    "powerLevel": 8
+  },
+  {
+    "name": "Glint",
+    "type": "Ogre",
+    "age": 50,
+    "powerLevel": 4
+  },
+  {
+    "name": "Rumble",
+    "type": "Troll",
+    "age": 300,
+    "powerLevel": 6
+  },
+  {
+    "name": "Quiver",
+    "type": "Elf",
+    "age": 120,
+    "powerLevel": 5
+  },
+  {
+    "name": "Torch",
+    "type": "Salamander",
+    "age": 20,
+    "powerLevel": 7
+  },
+  {
+    "name": "Cinder",
+    "type": "Imp",
+    "age": 80,
+    "powerLevel": 3
+  },
+  {
+    "name": "Bluster",
+    "type": "Djinn",
+    "age": 1000,
+    "powerLevel": 8
+  },
+  {
+    "name": "Leona",
+    "type": "Cat-Dragon",
+    "age": 5000,
+    "powerLevel": 9
+  },
+  {
+    "name": "Gossamer",
+    "type": "Banshee",
+    "age": 400,
+    "powerLevel": 9
+  },
+  {
+    "name": "Grit",
+    "type": "Ogre",
+    "age": 350,
+    "powerLevel": 6
+  },
+  {
+    "name": "Dapple",
+    "type": "Centaur",
+    "age": 250,
+    "powerLevel": 5
+  },
+  {
+    "name": "Sasha",
+    "type": "Wolfdog",
+    "age": 600,
+    "powerLevel": 20
+  },
+  {
+    "name": "Frostbite",
+    "type": "Yeti",
+    "age": 500,
+    "powerLevel": 7
+  }
+]
