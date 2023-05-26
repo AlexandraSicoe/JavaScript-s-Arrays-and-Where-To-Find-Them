@@ -84,7 +84,15 @@ const getRandomCompanion = (data) => {
   return randomCompanion;
 };
 const getStrongestCreature = (data) => {
-  var strongestAround = data.sort(function (a, b) {});
+  var strongestAround = data.sort(function (a, b) {
+    if (a.powerLevel < b.powerLevel) {
+      return -1;
+    }
+    if (a.powerLevel > b.powerLevel) {
+      return 1;
+    }
+    return 0;
+  });
   return strongestAround[data.length - 1];
 };
 

@@ -27,6 +27,7 @@ console.log(iFoundFluffy);
 const newCompanion = codexEdits.getRandomCompanion(codex);
 console.log(newCompanion);
 
+console.log("meow");
 const strongestAround = codexEdits.getStrongestCreature(codex);
 console.log(strongestAround);
 
